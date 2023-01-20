@@ -1,1 +1,1 @@
-print('dobry')
+print('dobry python')
